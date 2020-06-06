@@ -2,3 +2,5 @@ print('opor opor yeh yeh\nwe are having mad fun here, doing what we feel like in
 
 
 print('\n\neverything\'s shit'.upper())
+
+print('\nso we letting each other go, great stuff')
